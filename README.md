@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning GCP - looking forward to learn GCP via the path of Cloud Digital Leader, Associate Cloud Engineer, Professional Cloud Developer, Professional Cloud Architect... 
+- 🔭 I’m currently working on react, node.js
+
+...
+
+
 <!--
 **himanshigupta29/himanshigupta29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
