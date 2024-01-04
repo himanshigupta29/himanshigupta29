@@ -1,9 +1,10 @@
 ### Hi there 👋 I'm Himanshi Gupta
 
-- 🌱 I’m currently learning GCP - via the path of Cloud Digital Leader, Associate Cloud Engineer, Professional Cloud Developer, Professional Cloud Architect certifications ... 
 - 🔭 I’m currently working on react, node.js
+- 🌱 I’m currently learning react native
 
-...
+### Some blogs worth reading and bookmaking
+[Resources I wish I knew when I started my career](https://dev.to/harshitkumar31/resources-i-wish-i-knew-when-i-started-my-career-4gh6?ref=dailydev)
 
 
 <!--
