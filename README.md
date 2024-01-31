@@ -1,11 +1,11 @@
 ### Hi there 👋 I'm Himanshi Gupta
 
 - 🔭 I’m currently working on react, node.js
-- 🌱 I’m currently learning react native
+- 🌱 I’m currently learning React native
 
 ### Some blogs worth reading and bookmaking
-[Resources I wish I knew when I started my career](https://dev.to/harshitkumar31/resources-i-wish-i-knew-when-i-started-my-career-4gh6?ref=dailydev)
-
+- [Resources I wish I knew when I started my career](https://dev.to/harshitkumar31/resources-i-wish-i-knew-when-i-started-my-career-4gh6?ref=dailydev)
+-  [Developer Best Practice - React/JS](https://peacockindia.mintlify.app/docs/organizing-imports)
 
 <!--
 **himanshigupta29/himanshigupta29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
